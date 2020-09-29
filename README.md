@@ -1,2 +1,10 @@
-# Deep_learning
-Record my learning process and the implementation code on deep learning
+# Deep Learning Specialization ——————Code implementation
+(Record my learning process and the implementation code on deep learning)
+========
+
+## Course1 - Neural Network and Deep Learning
+
+| # | Course1 |
+|---| ----- |
+|week2|[Logistic Regression with a Neural Network mindset](./course1/week1 Logistic Regression with a Neural Network mindset.md)|
+
