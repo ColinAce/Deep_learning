@@ -1,5 +1,4 @@
 # Deep Learning Specialization ——————Code implementation
-========
 
 ## Course1 - Neural Network and Deep Learning
 (Record my learning process and the implementation code on deep learning)
